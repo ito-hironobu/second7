@@ -1,13 +1,8 @@
-﻿<Properties StartupConfiguration="{4DD81894-EBFE-4756-BD13-24C8F212DBCA}|Default">
+﻿<Properties StartupConfiguration="{10DA43D7-EDB4-4B55-838E-0221932EB1E8}|Default">
   <MonoDevelop.Ide.ItemProperties.Probrem2__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Probrem2__3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem2__1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem2_3/Program.cs">
-    <Files>
-      <File FileName="Probrem2_1/Program.cs" Line="1" Column="1" />
-      <File FileName="Probrem2_2/Program.cs" Line="1" Column="1" />
-      <File FileName="Probrem2_3/Program.cs" Line="5" Column="30" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
