@@ -1,15 +1,7 @@
-﻿<Properties StartupConfiguration="{FC1DEDBC-0911-4B11-89B3-8327F3CA498A}|Default">
+﻿<Properties StartupConfiguration="{9D17D9DC-F22D-4B5C-B4ED-F182DC416893}|Default">
+  <MonoDevelop.Ide.ItemProperties.Probrem3__2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem3__1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem3_2/NewCalc.cs">
-    <Files>
-      <File FileName="Probrem3_1/Program.cs" Line="1" Column="1" />
-      <File FileName="Probrem3_1/Airplane.cs" Line="22" Column="11" />
-      <File FileName="Probrem3_1/Fighter.cs" Line="11" Column="9" />
-      <File FileName="Probrem3_2/Program.cs" Line="14" Column="13" />
-      <File FileName="Probrem3_2/FundCalc.cs" Line="1" Column="1" />
-      <File FileName="Probrem3_2/NewCalc.cs" Line="6" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
