@@ -1,11 +1,12 @@
-﻿<Properties StartupConfiguration="{10DA43D7-EDB4-4B55-838E-0221932EB1E8}|Default">
+﻿<Properties StartupConfiguration="{6DF56C7C-732E-42B3-AFFC-A6217A847CE0}|Default">
   <MonoDevelop.Ide.ItemProperties.Probrem2__2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem2__3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Probrem2__1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem2_4/Counter.cs">
+  <MonoDevelop.Ide.ItemProperties.Probrem2__4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Probrem2_4/Program.cs">
     <Files>
-      <File FileName="Probrem2_4/Program.cs" Line="1" Column="1" />
-      <File FileName="Probrem2_4/Counter.cs" Line="10" Column="6" />
+      <File FileName="Probrem2_4/Counter.cs" Line="16" Column="33" />
+      <File FileName="Probrem2_4/Program.cs" Line="15" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
