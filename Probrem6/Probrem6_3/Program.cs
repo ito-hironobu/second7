@@ -29,8 +29,7 @@ namespace Probrem6_3
 
             int num;
             int t;
-            while (true)
-            {
+            while (true){
                 num = r.Next(r_min, r_max + 1);
                 Console.Write("0〜10の値を出力:" + num);
                 Console.WriteLine();
@@ -44,12 +43,13 @@ namespace Probrem6_3
 
             for (int i = 0; i < 10; i++){
                 Console.Write("一の位が{0}：", i);
+
                 if(data[i].Count == 0){
                     Console.WriteLine("なし");
                     continue;
                 }
-                foreach (int d in data[i])
-                {
+
+                foreach (int d in data[i]){
                     Console.Write(d + " ");
                 }
                 Console.WriteLine();
