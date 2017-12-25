@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probrem7_1", "Probrem7_1\Probrem7_1.csproj", "{0ECA979B-5F95-4D92-9B9A-454F4A346F7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Probrem7_2", "Probrem7_2\Probrem7_2.csproj", "{CBE4C92C-AE6A-4EF6-8B6B-399538274230}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{0ECA979B-5F95-4D92-9B9A-454F4A346F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ECA979B-5F95-4D92-9B9A-454F4A346F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ECA979B-5F95-4D92-9B9A-454F4A346F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE4C92C-AE6A-4EF6-8B6B-399538274230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE4C92C-AE6A-4EF6-8B6B-399538274230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE4C92C-AE6A-4EF6-8B6B-399538274230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE4C92C-AE6A-4EF6-8B6B-399538274230}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
